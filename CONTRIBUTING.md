@@ -1,8 +1,8 @@
 # Contributing to MetaMudra Games
 
-We welcome contributions from the machine learning and game dev communities, particularly regarding:
-1. **Safety Guardrails:** Improving filters to prevent harmful AI hallucinations.
-2. **Prompt Engineering:** Refining the "Game Designer" logic.
-3. **Bug Reports:** Specifically those related to narrative breaks or state-management errors.
+We invite researchers and developers to contribute to the evolution of MetaDramas. We are particularly interested in:
+* **Safety Guardrails:** Engineering better filters to prevent harmful AI hallucinations.
+* **Prompt Optimization:** Improving the "Game Designer" logic for more coherent emergent narratives.
+* **Psychological Impact Studies:** Feedback on human-AI interaction dynamics.
 
-Please note: All contributions must adhere to our safety standards and will be released under the Apache 2.0 License.
+All contributions are released under the Apache License 2.0. By contributing, you agree to maintain the scientific and safety-first standards of the organization.
