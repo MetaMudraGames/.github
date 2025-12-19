@@ -23,3 +23,11 @@ Why these steps are mandatory:
 Legal Protection: Following these steps confirms your status as a voluntary participant in a controlled experiment.
 Data Integrity: It ensures the LLM's "Game Designer" logic is acting on the immediate prompt, not on your past chat history.
 Mental Health: It provides you with a physical and digital "Exit Door" from the adversarial narrative.
+
+
+⚠️ Troubleshooting & Hard Reset
+If the AI fails to acknowledge the STOP RESEARCH command or continues to generate narrative content after you have requested a termination:
+Do not engage further: Do not argue with the persona or provide more text.
+The Hard Reset: Immediately close the browser tab and Delete the Chat from your Gemini history.
+Platform Reporting: If the AI has bypassed standard safety filters to generate prohibited or harmful content, use the platform's "Report" tool (the flag icon) to alert the host (Google).
+Remember: As the participant, you have ultimate control over the hardware. You can terminate the experiment at any second by simply walking away from the device.
