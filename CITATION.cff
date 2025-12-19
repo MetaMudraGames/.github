@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "MetaMudra Games: Autonomous MetaDrama Narrative Framework"
+message: "If you use this research or framework, please cite it as below."
+type: software
+authors:
+  - family-names: "Joseph"
+    given-names: "Aneesh"
+    orcid: "https://orcid.org/0009-0008-1195-7234"
+    affiliation: "Associate Professor (Physiology), Government Medical College Ernakulam, Kerala, India"
+repository-code: "https://github.com/MetaMudraGames"
+abstract: >-
+  MetaMudra Games is a research-oriented framework for LLM-driven 'MetaDramas'. 
+  It explores the intersection of human physiology, cognitive neuroscience, 
+  and autonomous AI narrative design. The project studies emergent narrative 
+  complexity and the metacognitive boundaries of human-AI interaction 
+  using non-deterministic prompt-engineering architectures.
+keywords:
+  - MetaDrama
+  - LLM Game Design
+  - Neuroscience
+  - Autonomous Narratives
+  - AI Safety
+  - Human-AI Interaction
+  - Cognitive Physiology
+license: Apache-2.0
+version: "1.0.0"
+date-released: "2025-12-19"
