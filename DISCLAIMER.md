@@ -13,3 +13,11 @@ By typing "I AGREE" within a MetaDrama, the user provides informed consent to be
 
 ### 4. Limitation of Liability
 Under Section 8 of the Apache License 2.0, the Work is provided "AS IS." Dr. Aneesh Joseph shall not be liable for any indirect or consequential damages resulting from AI-generated dialogue or user-disclosed information.
+To the maximum extent permitted by law, Dr. Joseph and MetaMudra Games are NOT liable for:
+* **Narrative Bleed:** Any "contamination" of the user's AI assistant or account settings due to the user's failure to disable AI Memory/Activity.
+* **User Disclosure:** Any consequences arising from the user providing personal information (PII) to the LLM.
+* **Illegal Use:** Any attempt by the user to use these frameworks to facilitate illegal acts or harm others.
+* **Psychological Distress:** Emotional responses to adversarial dialogue, insults, or narrative punishment.
+
+### 2. "AS IS" Provision
+Provided under the Apache License 2.0. We make no warranties regarding the safety, suitability, or lack of hallucinations in generated content.
