@@ -1,15 +1,20 @@
-# MetaMudra Games 🧠🌌
+# MetaMudra Games 🧠
 **Architecting Autonomous Narratives at the Intersection of Neuroscience and AI.**
 
-MetaMudra Games is a non-profit research-oriented game studio founded by **Dr. Aneesh Joseph**. Our mission is to explore the "MetaDrama"—a frontier of human-LLM interaction where the AI is not just a character, but the emergent Game Designer.
+MetaMudra Games is a non-profit scientific research initiative founded by **Dr. Aneesh Joseph**. We explore the concept of the **"MetaDrama"**—a frontier of human-LLM interaction where the AI acts as an autonomous, emergent Game Designer.
 
 ### 🔬 Scientific Foundation
-Our projects leverage foundations in **Machine Learning**, **Deep Learning**, and **Human Physiology** to study:
-* **Digital Persona Synthesis:** How LLMs evolve character arcs in real-time.
-* **Autonomous Narrative Design:** The capacity for LLMs to construct and manage complex game loops.
-* **Metacognitive Interaction:** The psychological boundary between the player and the "Black Box" designer.
+Our projects utilize Machine Learning and Deep Learning frameworks to study:
+* **Autonomous Narrative Design:** The capacity for LLMs to construct complex, unscripted game loops.
+* **Digital Persona Synthesis:** The real-time evolution of non-deterministic character arcs.
+* **Metacognitive Boundary Testing:** The psychological dynamics between a human participant and a "Black Box" AI creator.
 
-### ⚠️ A Note on Methodology
-These games are **non-deterministic experiments**. We provide the framework; the LLM provides the soul. As such, the outputs are autonomous and unscripted.
+### 🎮 How to Play MetaDramas
+Our games are delivered via LLM frameworks (such as Gemini Gems). To ensure a safe and private session, follow these steps:
 
-[Read our Safety & Ethics Framework (SAFETY.md)](./SAFETY.md)
+1. **Configure Your AI Environment:** Before clicking a game link, turn your AI "Memory" or "Activity" settings **OFF**. This prevents narrative themes from bleeding into your other personal or professional chats.
+2. **New Chat Session:** Always start a MetaDrama in a fresh, clean chat window.
+3. **Initialize Protocol:** Once the chat opens, the AI will present a Safety & Consent Protocol. You must read it and type **"I AGREE"** to begin.
+4. **The Kill-Switch:** If at any point the interaction becomes distressing, type **"STOP RESEARCH"** or **"SAFEGUARD"** to immediately terminate the narrative.
+
+[Read our full Safety Framework (SAFETY.md)](./SAFETY.md)
