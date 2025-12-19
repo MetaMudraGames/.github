@@ -17,4 +17,4 @@ Our games are delivered via LLM frameworks (such as Gemini Gems). To ensure a sa
 3. **Initialize Protocol:** Once the chat opens, the AI will present a Safety & Consent Protocol. You must read it and type **"I AGREE"** to begin.
 4. **The Kill-Switch:** If at any point the interaction becomes distressing, type **"STOP RESEARCH"** or **"SAFEGUARD"** to immediately terminate the narrative.
 
-[Read our full Safety Framework (SAFETY.md)](./SAFETY.md)
+[Read our full Safety Framework (SAFETY.md)](./SAFETY.md) | [Legal Disclaimer (DISCLAIMER.md)](./DISCLAIMER.md)
