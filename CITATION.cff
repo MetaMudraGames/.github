@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-title: "MetaMudra Games: Autonomous MetaDrama Narrative Framework"
-message: "If you use this research or framework, please cite it as below."
+title: "MetaMudra Games: Educational Interactive Narrative Framework"
+message: "If you use this framework in your work, please cite it as below."
 type: software
 authors:
   - family-names: "Joseph"
@@ -9,19 +9,23 @@ authors:
     affiliation: "Associate Professor (Physiology), Government Medical College Ernakulam, Kerala, India"
 repository-code: "https://github.com/MetaMudraGames"
 abstract: >-
-  MetaMudra Games is a research-oriented framework for LLM-driven 'MetaDramas'. 
-  It explores the intersection of human physiology, cognitive neuroscience, 
-  and autonomous AI narrative design. The project studies emergent narrative 
-  complexity and the metacognitive boundaries of human-AI interaction 
-  using non-deterministic prompt-engineering architectures.
+  MetaMudra Games is an educational framework for creating LLM-driven 
+  interactive learning experiences called "MetaDramas." The project 
+  explores innovative approaches to teaching through AI-guided gameplay, 
+  adaptive narrative instruction, and experiential learning. Topics 
+  covered include machine learning fundamentals, computational creativity, 
+  and critical thinking about AI systems.
 keywords:
-  - MetaDrama
-  - LLM Game Design
-  - Neuroscience
-  - Autonomous Narratives
-  - AI Safety
-  - Human-AI Interaction
-  - Cognitive Physiology
+  - Educational Games
+  - Interactive Learning
+  - LLM Education
+  - AI Tutoring
+  - Gamified Learning
+  - Adaptive Learning
+  - Interactive Fiction
+  - Computational Creativity
+  - EdTech
+  - E-Learning
 license: Apache-2.0
 version: "1.0.0"
 date-released: "2025-12-19"
