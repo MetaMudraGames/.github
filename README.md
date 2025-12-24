@@ -14,7 +14,7 @@ We believe learning should be engaging, memorable, and sometimes challenging. Me
 
 Our MetaDramas cover diverse educational topics, including:
 
-- **Machine Learning Fundamentals** — Learn AI concepts by interacting with AI
+- **Human Physiology** — Learn physiology concepts by interacting with AI
 - **Creative Computing** — ASCII art, generative design, and computational creativity
 - **Critical Thinking** — Understand AI capabilities and limitations through direct experience
 - **Interactive Storytelling** — Narrative design and collaborative fiction techniques
