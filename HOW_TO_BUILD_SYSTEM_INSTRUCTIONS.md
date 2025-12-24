@@ -946,7 +946,26 @@ A MetaDrama is ready for release when:
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
+### 15. The Narrative Arc
 
+**The Science: Story Structure & Memory**
+- **Concept**: Episodic Memory Encoding. Humans remember stories better than facts.
+- **Principle**: Dramatic structure isn't decoration—it's a memory architecture.
+
+**Must Include:**
+- **The Hook**: Opening that creates immediate investment (a question, a problem, a tension)
+- **Rising Action**: Challenges that escalate in complexity (not just difficulty)
+- **The Reversal**: A moment where the learner's assumptions are overturned
+- **The Climax**: The hardest challenge, where everything comes together
+- **Resolution**: Not just ending, but meaning. What does this add up to?
+
+SHAPE:
+Investment →→ Escalation →→ REVERSAL →→ Climax →→ Meaning
+↑              ↑             ↑           ↑          ↑
+Hook        Rising       The turn    Everything   Why this
+stakes       that teaches  at stake    mattered
+**The Test:**
+If someone finishes and can't articulate what it was *about*, the arc failed.
 ---
 
 *"The Prompt is the Program. The Program is the Pedagogy."*
