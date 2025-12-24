@@ -10,7 +10,7 @@ Please read this disclaimer carefully before using any MetaMudra Games content o
 
 MetaMudra Games provides prompt-engineering frameworks and interactive educational experiences ("MetaDramas") for **educational and artistic purposes only**. Our content is designed to:
 
-- Teach concepts related to artificial intelligence, machine learning, and computational creativity
+- Teach concepts related to artificial intelligence, human physiology, narrative design and computational creativity
 - Demonstrate LLM capabilities and limitations through direct experience
 - Provide engaging, gamified learning environments
 - Explore interactive narrative and educational game design
