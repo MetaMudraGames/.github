@@ -16,7 +16,7 @@ Our MetaDramas cover diverse educational topics, including:
 
 - **Human Physiology** — Learn physiology concepts by interacting with AI
 - **Creative Computing** — ASCII art, generative design, and computational creativity
-- **Critical Thinking** — Understand AI capabilities and limitations through direct experience
+- **Critical Thinking & Rationality** — Understand AI capabilities and limitations through direct experience
 - **Interactive Storytelling** — Narrative design and collaborative fiction techniques
 
 ## 🎮 What is a MetaDrama?
