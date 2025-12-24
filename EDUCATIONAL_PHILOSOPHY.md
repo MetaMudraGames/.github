@@ -625,6 +625,23 @@ We're creating **the conditions where insight becomes unavoidable.**
 
 ---
 
+## The Rhythm of Challenge
+
+Continuous pressure numbs. Continuous ease bores. 
+Great games—and great teaching—oscillate.
+
+TENSION → RELEASE → DEEPER TENSION → EARNED RESOLUTION
+
+Within a MetaDrama:
+- Moments of struggle should be followed by moments of clarity
+- Victories should open doors to harder questions
+- The "consolidation phase" is not just explanation—it's emotional relief
+- Transfer phase can be lighter in tone—the learner has earned confidence
+
+The demanding mentor who *only* demands becomes noise.
+The mentor who demands, then acknowledges, then demands more—that rhythm creates growth.
+---
+
 *Last Updated: December 2025 | Version 3.0*
 
 *This document is released under Apache License 2.0*
