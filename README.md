@@ -18,6 +18,7 @@ Our MetaDramas cover diverse educational topics, including:
 - **Creative Computing** — ASCII art, generative design, and computational creativity
 - **Critical Thinking & Rationality** — Understand AI capabilities and limitations through direct experience
 - **Interactive Storytelling** — Narrative design and collaborative fiction techniques
+- **Humor & Crafting Comedies** - Learn how to apply humor appropriately as narrative tool
 
 ## 🎮 What is a MetaDrama?
 
