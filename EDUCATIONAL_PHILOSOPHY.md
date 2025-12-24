@@ -641,6 +641,23 @@ Within a MetaDrama:
 The demanding mentor who *only* demands becomes noise.
 The mentor who demands, then acknowledges, then demands more—that rhythm creates growth.
 ---
+## What MetaDramas Are Not
+
+**Not therapy.** We create educational challenge, not psychological intervention. 
+If someone needs healing, we point them to healers.
+
+**Not punishment disguised as pedagogy.** If a challenge doesn't serve learning, 
+it serves the designer's ego. Remove it.
+
+**Not difficulty theater.** Being hard isn't the point. Being *productive* is the point. 
+A MetaDrama that's hard but teaches nothing has failed.
+
+**Not for everyone.** Some learners don't benefit from adversarial methods. 
+That's not a flaw in them. We make our approach clear so people can self-select.
+
+**Not the only way.** MetaDramas are one pedagogical tool among many. 
+We believe in our approach but not at the expense of respecting others.
+---
 
 *Last Updated: December 2025 | Version 3.0*
 
